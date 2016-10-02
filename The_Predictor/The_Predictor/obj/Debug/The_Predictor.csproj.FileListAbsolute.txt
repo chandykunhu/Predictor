@@ -1,0 +1,9 @@
+G:\chandyProjects\The_Predictor\The_Predictor\bin\Debug\The_Predictor.exe.config
+G:\chandyProjects\The_Predictor\The_Predictor\obj\Debug\The_Predictor.csprojResolveAssemblyReference.cache
+G:\chandyProjects\The_Predictor\The_Predictor\obj\Debug\The_Predictor.Form1.resources
+G:\chandyProjects\The_Predictor\The_Predictor\obj\Debug\The_Predictor.Properties.Resources.resources
+G:\chandyProjects\The_Predictor\The_Predictor\obj\Debug\The_Predictor.csproj.GenerateResource.Cache
+G:\chandyProjects\The_Predictor\The_Predictor\bin\Debug\The_Predictor.exe
+G:\chandyProjects\The_Predictor\The_Predictor\bin\Debug\The_Predictor.pdb
+G:\chandyProjects\The_Predictor\The_Predictor\obj\Debug\The_Predictor.exe
+G:\chandyProjects\The_Predictor\The_Predictor\obj\Debug\The_Predictor.pdb
